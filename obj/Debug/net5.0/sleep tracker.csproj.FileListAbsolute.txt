@@ -1,0 +1,40 @@
+C:\Users\Sama Mansour\source\repos\sleep tracker\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sama Mansour\source\repos\sleep tracker\bin\Debug\net5.0\appsettings.json
+C:\Users\Sama Mansour\source\repos\sleep tracker\bin\Debug\net5.0\sleep tracker.exe
+C:\Users\Sama Mansour\source\repos\sleep tracker\bin\Debug\net5.0\sleep tracker.deps.json
+C:\Users\Sama Mansour\source\repos\sleep tracker\bin\Debug\net5.0\sleep tracker.runtimeconfig.json
+C:\Users\Sama Mansour\source\repos\sleep tracker\bin\Debug\net5.0\sleep tracker.runtimeconfig.dev.json
+C:\Users\Sama Mansour\source\repos\sleep tracker\bin\Debug\net5.0\sleep tracker.dll
+C:\Users\Sama Mansour\source\repos\sleep tracker\bin\Debug\net5.0\ref\sleep tracker.dll
+C:\Users\Sama Mansour\source\repos\sleep tracker\bin\Debug\net5.0\sleep tracker.pdb
+C:\Users\Sama Mansour\source\repos\sleep tracker\bin\Debug\net5.0\sleep tracker.Views.dll
+C:\Users\Sama Mansour\source\repos\sleep tracker\bin\Debug\net5.0\sleep tracker.Views.pdb
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.csproj.AssemblyReference.cache
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.AssemblyInfoInputs.cache
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.AssemblyInfo.cs
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.csproj.CoreCompileInputs.cache
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.RazorAssemblyInfo.cache
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.RazorAssemblyInfo.cs
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\staticwebassets\sleep tracker.StaticWebAssets.Manifest.cache
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\staticwebassets\sleep tracker.StaticWebAssets.xml
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\scopedcss\bundle\sleep tracker.styles.css
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.TagHelpers.input.cache
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.TagHelpers.output.cache
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.RazorCoreGenerate.cache
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.RazorTargetAssemblyInfo.cache
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.RazorTargetAssemblyInfo.cs
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.Views.pdb
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.dll
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\ref\sleep tracker.dll
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.pdb
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.genruntimeconfig.cache
+C:\Users\Sama Mansour\source\repos\sleep tracker\obj\Debug\net5.0\sleep tracker.csproj.CopyComplete
