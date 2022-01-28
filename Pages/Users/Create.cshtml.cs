@@ -9,14 +9,13 @@ using sleep_tracker.Model;
 
 namespace sleep_tracker.Pages.Users
 {
-    public class signupModel : PageModel
+    public class CreateModel : PageModel
     {
+
         private readonly ApplicationDbContext _db;
+        public Record record { get; set; }
 
-        public User user { get; set; }
-
-
-        public signupModel(ApplicationDbContext db)
+        public CreateModel(ApplicationDbContext db)
         {
             _db = db;
         }
@@ -24,16 +23,17 @@ namespace sleep_tracker.Pages.Users
         {
         }
 
-        public async Task<IActionResult> OnPost(User user)
+        public async Task<IActionResult> OnPost(Record record)
         {
-            
+          
             if (ModelState.IsValid)
             {
-                await _db.User.AddAsync(user);
+                await _db.Record.AddAsync(record);
                 await _db.SaveChangesAsync();
                 return RedirectToPage("Index");
             }
             return Page();
         }
+       
     }
 }

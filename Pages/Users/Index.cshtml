@@ -1,4 +1,42 @@
 ﻿@page
 @model sleep_tracker.Pages.Users.IndexModel
-@{
-}
+<div  class = "container p-3">
+	<div class = "row pt-4">
+	 <div class ="col-6">
+	  <h2 class ="text-primary"> Sleep Time </h2>
+  </div>
+  <div class ="col-6">
+	  <a asp-page ="create" class ="btn btn-primary">
+	  Add New Record
+   </a>
+  </div>
+  <br /><br />
+  <table class ="table table-bordered table-striped " style="width:100%" >
+	  <thead>
+	   <tr>
+		<th>
+	Time of sleep 
+  </th>
+  <th>
+	  Wakeup Time 
+  </th>
+  <th>
+	  Sleep Duration
+  </th>
+	</tr>
+   </thead>
+   <tbody>
+	   @foreach(var obj in Model.Records){
+	   <tr>
+		
+        <td width="30%">@obj.SleepTime</td>
+		 <td width="30%">@obj.WakeupTime</td>
+		  <td width="30%">@obj.TotalHrs</td>
+
+		
+	</tr>
+	}
+   </tbody>
+  </table>
+ </div>
+</div>

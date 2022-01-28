@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using sleep_tracker.Model;
 
 namespace sleep_tracker.Data
 {
@@ -13,6 +14,9 @@ namespace sleep_tracker.Data
         {
             
         }
-      
+
+        public DbSet<User> User { get; set; }
+        public DbSet<Record> Record { get; set; }
+
     }
 }
