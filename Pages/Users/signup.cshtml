@@ -1,0 +1,39 @@
+﻿@page
+@model sleep_tracker.Pages.Users.signupModel
+<form method ="post">
+<div class ="border p-3 mt-4">
+	<div>
+	 <h2 class="text-primary pl-3" > Signup </h2>
+	 
+ </div>
+ <div asp-validation-summary ="All"></div>
+ <div class ="mb-3">
+	 <label asp-for ="user.Name"></label>
+	 <input asp-for ="@Model.user.Name" class ="form-control" />
+	 <span asp-validation-for="user.Name" class="text-danger"></span>
+	 
+ </div> 
+
+ <div class ="mb-3">
+	 <label asp-for ="user.Email"></label>
+	 <input asp-for ="@Model.user.Email" class ="form-control" />
+	  <span asp-validation-for="user.Email" class="text-danger"></span>
+	 
+ </div> 
+
+
+  <div class ="mb-3">
+	 <label asp-for ="user.Password"></label>
+	 <input asp-for ="@Model.user.Password" class ="form-control" />
+	  <span asp-validation-for="user.Password" class="text-danger"></span>
+	 
+ </div> 
+ <button type="submit" class ="btn btn-primary" style ="width:150px;">Signup</button>
+ 
+ </div>
+</form>
+@section Scripts{
+	@{
+		<partial name ="_ValidationScriptsPartial"/>
+	}
+}
