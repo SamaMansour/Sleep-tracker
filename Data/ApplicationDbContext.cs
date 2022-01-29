@@ -18,5 +18,6 @@ namespace sleep_tracker.Data
         public DbSet<User> User { get; set; }
         public DbSet<Record> Record { get; set; }
 
+        
     }
 }
